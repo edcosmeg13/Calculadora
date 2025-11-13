@@ -1,4 +1,4 @@
-#  ACTIVIDAD FINAL: Calculadora básica mejorada
+#  ACTIVIDAD FINAL: Calculadora básica mejorada en funcionamiento y usabilidad
 def calculadora():
     """
     Calculadora básica con operaciones aritméticas
